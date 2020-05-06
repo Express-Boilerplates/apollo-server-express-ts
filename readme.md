@@ -4,11 +4,10 @@ Apollo server express boilerplate with babel transpilation and graphql-shield mi
 
 **Includes:**
 
-- [Apollo Server Express](https://www.npmjs.com/package/apollo-server-express)
-- [Express](https://www.npmjs.com/package/express)
-- [Graphql Shield](https://www.npmjs.com/package/graphql-shield)
-- [@babel](https://babeljs.io)
-- [nodemon](https://nodemon.io)
+-   [Apollo Server Express](https://www.npmjs.com/package/apollo-server-express)
+-   [Express](https://www.npmjs.com/package/express)
+-   [Graphql Shield](https://www.npmjs.com/package/graphql-shield)
+-   [Nodemon](https://nodemon.io)
 
 **Installing:**
 
